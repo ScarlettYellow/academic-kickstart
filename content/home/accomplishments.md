@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "CCF (China Computer Federation)"
   organization_url = "https://www.ccf.org.cn/"
-  title = "Second Prize(Top 1%), 2017 CCF Data & Computational Intelligence Contest"
+  title = "Second Prize (Top 1%), 2017 CCF Data & Computational Intelligence Contest"
   url = "https://www.datafountain.cn/projects/2017CCF/"
   certificate_url = "https://drive.google.com/open?id=1vuOhI8sPcaNojGBGaR4geYt1eDFcgmve"
   date_start = "2017-09-15"
