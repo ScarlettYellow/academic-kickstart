@@ -10,7 +10,7 @@ view: 2
 # Optional header image (relative to `static/img/` folder).
 header: Experiences behind my growth
   caption: ""
-  image: "featured.jpg"
+  image: "static/img/featured.jpg"
 ---
 
 My whole life has been an journey of discovering my true love, which means the field I really want to go deep into, and after several attempts I ultimately found that technology business is my true love.
