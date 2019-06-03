@@ -31,7 +31,7 @@ Responsibilities include:
 - Designing and Implementing product solutions & strategies 
 - Constructing Data System
 
-Products worked on include:
+Products involved include:
 
 - Security and Compliance Intelligent Monitoring System (serving 1500 + staffs)
 
@@ -67,11 +67,13 @@ Products in charge of include:
   location = "Wuhan, China"
   date_start = "2017-06-01"
   date_end = "2018-04-20"
-  description = """Responsibilities include:
+  description = """
+
+Responsibilities include:
 
 - Establishing the AI Group and recuiting new members (containing 20+ undergraduate students)
 - Formulating the group culture and operation mechanism, introducing external resources
-- Holding AI salons and classes facing all interested students, including the underrepresented groups (have influenced at least 500+ undergraduate students to get interested in AI)
+- Holding AI salons and classes facing all interested students, including the underrepresented groups (have gotten at least 500+ undergraduate students interested in AI)
 
  """
 
