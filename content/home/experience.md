@@ -18,30 +18,61 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Intern"
-  company = "Pattern Recognition Center, WeChat AI, Tencent"
-  company_url = ""
+  title = "AI Product Manager Intern"
+  company = "AI Labs, Didi Chuxing"
+  company_url = "https://www.didiglobal.com/"
   location = "Beijing, China"
-  date_start = "2018-11-20"
-  date_end = ""
-  description = """Natural Language Processing, Dialogue system, Knowledge Engineering, Deep Learning"""
+  date_start = "2018-12-20"
+  date_end = "2019-04-30"
+  description = """
+
+Responsibilities include:
+
+- Designing and Implementing product solutions & strategies 
+- Constructing Data System
+
+Products worked on include:
+
+- Security and Compliance Intelligent Monitoring System (serving 1500 + staffs)
+
+- Hotline Customer Service Intelligent Assistance System (serving 700 + staffs)
+- Intelligent Customer Service Chatbot (serving 1 billion+ users)
+
+"""
 
 [[experience]]
-  title = "AI Group Leader"
-  company = "Dian Group, Huazhong University of Science and Technology"
-  company_url = ""
+  title = "AI Product Manager Intern"
+  company = "Smart Retail Department, Face++ (Megvii)"
+  company_url = "https://megvii.com/"
+  location = "Beijing, China"
+  date_start = "2018-06-28"
+  date_end = "2018-08-30"
+  description = """
+
+Responsibilities include:
+
+- Designing and Implementing product solutions & strategies 
+- Constructing Benchmark System
+
+Products in charge of include:
+
+- Consumer hot zone and moving line identification and visualization system (serving 1000 + stores)
+
+ """
+
+[[experience]]
+  title = "AI Group Founder & Leader"
+  company = "Unique Studio, Huazhong University of Science and Technology"
+  company_url = "https://hustunique.com/"
   location = "Wuhan, China"
-  date_start = "2018-07-01"
-  date_end = ""
-  description = """AI group containing 20+ undergraduate students. """
+  date_start = "2017-06-01"
+  date_end = "2018-04-20"
+  description = """Responsibilities include:
 
-[[experience]]
-  title = "NLP Engineer Intern"
-  company = "Beibei Group"
-  company_url = ""
-  location = "Hangzhou, China"
-  date_start = "2018-03-01"
-  date_end = "2018-11-19"
-  description = """Intelligent customer service (AIbot) team leader, responsible for the construction of intelligent customer service system (AIbot). Now AIbot is serving hundreds of millions of users. """
+- Establishing the AI Group and recuiting new members (containing 20+ undergraduate students)
+- Formulating the group culture and operation mechanism, introducing external resources
+- Holding AI salons and classes facing all interested students, including the underrepresented groups (have influenced at least 500+ undergraduate students to get interested in AI)
+
+ """
 
 +++
