@@ -29,13 +29,13 @@ subtitle = ""
      name = "AI Products"
      tag = "AI Products"
   
-  # [[content.filter_button]]
-  #   name = "APP"
-  #   tag = "APP"
+   [[content.filter_button]]
+     name = "APP"
+     tag = "APP"
 
-  # [[content.filter_button]]
-  #   name = "Social Science"
-  #   tag = "Social Science"
+   [[content.filter_button]]
+     name = "Social Science"
+     tag = "Social Science"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
