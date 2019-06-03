@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Experiences behind my growth
 
 # View.
 #   1 = List
@@ -9,7 +9,7 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header: 
-  caption: "Experiences behind my growt"
+  caption: "Experiences behind my growth"
   image: "featured.jpg"
 ---
 
