@@ -27,8 +27,8 @@ interests:
 
 education:
   courses:
-  - course: BA in [Communication](http://english.hust.edu.cn/)
-    institution: Institute of Computing Technology, Chinese Academy of Sciences
+  - course: BA in Communication
+    institution: Huazhong University of Science and Technology
     year: 2016~2020
   - course: BSc in Computer Science and Technology
     institution: Huazhong University of Science and Technology
@@ -67,8 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Zekang Li is a graduate student in [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), Institute of Computing Technology, Chinese Academy of Sciences, advised by Prof. [Yang Feng](http://iip.ict.ac.cn/members/yang-feng). He worked as the AI Group Leader of [Dian Group](http://dian.org.cn/) (2017~2019) (Dian Group ID: D610). Now he is in a research intern at Pattern Recognition Center, WeChat AI, Tencent, advised by [Fandong Meng](http://fandongmeng.github.io/), [Jinchao Zhang](#about) and [Cheng Niu](#about).
+Scarlett Huang is an undergraduate student majoring in both [Communication](https://drive.google.com/open?id=1zSoWb30w7oAiSfQvMJQd8bkCIeRSk5xB) and [Computer Science ](https://drive.google.com/open?id=1ICUjT-VQ_Fka3SFW8Jifxg4hM8gGqzTQ) in [Huazhong University of Science and Technology](http://english.hust.edu.cn/). She founded and leaded the [AI Group](https://unique-ailab.github.io/) of [Unique Studio](https://hustunique.com/). She worked as an AI Product Manager (PM) intern, respectively, in the [Smart Retail Department](https://megvii.com/Intelligent_Retail/) of [Face++ (Megvii)](https://megvii.com/), and in the [AI Labs](https://www.didiglobal.com/science/ailabs) of [Didi Chuxing](https://www.didiglobal.com/). 
 
-His research interests lie within deep learning for Natural Language Processing, particularly in dialogue systems and knowledge representation. His is also involved in Cognitive Science and its application in Dialogue System.
-
-
+She positions herself as a fusion of technology and humanities. She is committed to promoting the productization and commercialization of AI technology as an AI PM. She has AI productization experience in the fields of Smart Retail, Intelligent Customer Service and Intelligent Mobility with the comprehensive application of various AI technologies, including CV, NLP, ASR, etc.
