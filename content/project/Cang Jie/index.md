@@ -1,6 +1,6 @@
 ---
 title: Cang Jie
-summary: Travel Safety and Compliance Monitoring System of Didi Company
+summary: Travel Safety and Compliance Intelligent Monitoring System of Didi Company
 tags:
 - AI Products
 date: "2019-04-30T00:00:00Z"
@@ -25,4 +25,4 @@ url_video: ""
 slides: ""
 ---
 
-Travel Safety and Compliance Monitoring System of Didi Company
+Travel Safety and Compliance Intelligent Monitoring System of Didi Company

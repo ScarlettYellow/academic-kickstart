@@ -1,6 +1,6 @@
 ---
 title: Smart Tracking
-summary: Consumer Hot Zone and Moving Line Intelligent Identification and Visualization in the Smart Retail System of Face++
+summary: Consumer Hot Zone and Moving Line Intelligent Identification and Visualization Module in the Smart Retail System of Face++
 tags:
 - AI Products
 date: "2018-08-30T00:00:00Z"
@@ -25,4 +25,4 @@ url_video: ""
 slides: ""
 ---
 
-Consumer Hot Zone and Moving Line Intelligent Identification and Visualization in the Smart Retail System of Face++
+Consumer Hot Zone and Moving Line Intelligent Identification and Visualization Module in the Smart Retail System of Face++
