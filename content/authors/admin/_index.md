@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#1056838786@qq.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 1056838786@qq.com  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -69,4 +69,4 @@ user_groups:
 
 Scarlett Huang is an undergraduate student majoring in both [Communication](https://drive.google.com/open?id=1zSoWb30w7oAiSfQvMJQd8bkCIeRSk5xB) and [Computer Science ](https://drive.google.com/open?id=1ICUjT-VQ_Fka3SFW8Jifxg4hM8gGqzTQ) in [Huazhong University of Science and Technology](http://english.hust.edu.cn/). She founded and leaded the [AI Group](https://unique-ailab.github.io/) of [Unique Studio](https://hustunique.com/). She worked as an AI Product Manager (PM) intern, respectively, in the [Smart Retail Department](https://megvii.com/Intelligent_Retail/) of [Face++ (Megvii)](https://megvii.com/), and in the [AI Labs](https://www.didiglobal.com/science/ailabs) of [Didi Chuxing](https://www.didiglobal.com/). 
 
-She positions herself as a fusion of technology and humanities. She is committed to promoting the productization and commercialization of AI technology as an AI PM. She has AI productization experience in the fields of Smart Retail, Intelligent Customer Service and Intelligent Mobility with the comprehensive application of various AI technologies, including CV, NLP, ASR, etc.
+She positions herself as a fusion of technology and humanities. She is committed to promoting the productization and commercialization of AI technology as an AI PM. She has AI productization experience in the fields of Smart Retail, Intelligent Customer Service and Intelligent Transportation with the comprehensive application of various AI technologies, including CV, NLP, ASR, etc.
