@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Zekang Li
+name: Scarlett Huang
 
 # Username (this should match the folder name)
 authors:
@@ -10,29 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate student
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Institute of Computing Technology, Chinese Academy of Sciences
+- name: Huazhong University of Science and Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Artificial Intelligence, Natural Language Processing and Dialogue System.
+bio: I am committed to promoting the productization and commercialization of AI technology as an AI Product Manager.
 
 interests:
 - Artificial Intelligence
-- Natural Language Processing
-- Dialogue System
+- Product Design & Management
+- Social Science
 
 education:
   courses:
-  - course: Master in Natural Language Processing
+  - course: BA in [Communication](http://english.hust.edu.cn/)
     institution: Institute of Computing Technology, Chinese Academy of Sciences
-    year: 2019~now
-  - course: BSc in Electronic Information Engineering
+    year: 2016~2020
+  - course: BSc in Computer Science and Technology
     institution: Huazhong University of Science and Technology
-    year: 2015~2019
+    year: 2016~2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#zekangli97@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: '#1056838786@qq.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -50,7 +50,7 @@ social:
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/lizekang
+  link: https://github.com/ScarlettYellow
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -58,8 +58,8 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-  
+email: "1056838786@qq.com"
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
