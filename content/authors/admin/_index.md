@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am committed to promoting the productization and commercialization of AI technology as an AI Product Manager.
+bio: I am an AI Product Manager committed to promoting the productization and commercialization of AI technology. In my spare time, I enjoy meditation, reading, travelling and photography.
 
 interests:
 - Artificial Intelligence
