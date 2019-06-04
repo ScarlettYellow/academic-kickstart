@@ -50,12 +50,12 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "zekangli97@gmail.com"
-phone = "(+86) 15927573538"
-address = ""
+email = "1056838786@qq.com"
+phone = "(+86) 17786608226"
+address = "Yunyuan Student Apartment, Huazhong University of Science and Technology, Wuhan, Hubei, China"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = ""
+office_hours = "Email for appointment"
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
@@ -63,7 +63,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "envelope", icon_pack = "fas", name = "zekangli97@gmail.com", link = "zekangli97@gmail.com"},
+  {icon = "envelope", icon_pack = "fas", name = "1056838786@qq.com", link = "1056838786@qq.com"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
