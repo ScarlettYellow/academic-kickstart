@@ -1,5 +1,9 @@
 ---
 title: Way to know myself
+summary: Way to know myself
+tags:
+- Life
+date: "2019-06-03T00:00:00Z"
 
 # View.
 #   1 = List
@@ -11,6 +15,12 @@ view: 1
 header: 
   caption: "Way to know myself"
   image: "0001.jpg"
+
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
 ---
 
 My whole life has been an journey of discovering my "true love", which means the field I really want to go deep into, and after several attempts I ultimately found that technology business is my true love.
