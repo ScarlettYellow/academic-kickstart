@@ -1,10 +1,12 @@
 ---
 title: Way to know myself
-summary: 
+date: 2019-06-02
+featured: false
+categories:
+- Computer Science
 tags:
-- AI Products
-- Featured
-date: "2019-06-02T00:00:00Z"
+- Python
+summary: 
 
 # View.
 #   1 = List

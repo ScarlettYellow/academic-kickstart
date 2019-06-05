@@ -1,9 +1,12 @@
 ---
 title: Way to know myself
-summary: 
-tags:
+date: 2019-06-02
+featured: true
+categories:
 - Life
-date: "2019-06-02T00:00:00Z"
+tags:
+- growth
+summary: 
 
 # View.
 #   1 = List

@@ -1,9 +1,12 @@
 ---
 title: Way to know myself
-summary: 
+date: 2019-06-04
+featured: false
+categories:
+- Social Science
 tags:
-- Computer Science
-date: "2019-06-02T00:00:00Z"
+- User Research
+summary: 
 
 # View.
 #   1 = List
