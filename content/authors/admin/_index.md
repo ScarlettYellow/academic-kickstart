@@ -73,4 +73,4 @@ She used to be a liberal arts student, but fell in love with designing Technolog
 
 She positions herself as a fusion of both technology and humanities. Her goal is to promote the productization and commercialization of AI technology as an AI PM. 
 
-She currently has AI productization experience in the fields of Smart Retail, Intelligent Customer Service and Intelligent Mobility with the comprehensive application of various AI technologies, including CV, NLP, ASR, etc.
+She currently has AI productization experiences in the fields of Smart Retail, Intelligent Customer Service and Intelligent Mobility with the comprehensive application of various AI technologies, including CV, NLP, ASR, etc.
