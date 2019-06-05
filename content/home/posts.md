@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "Life", "AI Procucts", "Computer Science", "Social Science"
+    tag = "Life"
     category = ""
     publication_type = ""
     exclude_featured = false
