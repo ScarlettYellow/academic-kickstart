@@ -12,7 +12,7 @@ summary:
 header: 
   caption: "Way to know myself"
   image: "0001.jpg"
-    focal_point: Center
+  focal_point: Center
 
 url_code: ""
 url_pdf: ""
