@@ -58,8 +58,8 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-  
+email: "scarletthuang.cn@gmail.com"
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -67,6 +67,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Scarlett Huang is always on a journey of discovering her actual self and "true love". 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+She used to be a liberal arts student, but fell in love with designing Technology Products in univeristy. This carried into her majors in both [Communication](https://drive.google.com/open?id=1zSoWb30w7oAiSfQvMJQd8bkCIeRSk5xB) and [Computer Science ](https://drive.google.com/open?id=1ICUjT-VQ_Fka3SFW8Jifxg4hM8gGqzTQ) in [Huazhong University of Science and Technology](http://english.hust.edu.cn/), and AI Product Manager (PM) internships in the [AI Labs](https://www.didiglobal.com/science/ailabs) of [Didi Chuxing](https://www.didiglobal.com/), and [Smart Retail Department](https://megvii.com/Intelligent_Retail/) of [Face++ (Megvii)](https://megvii.com/). She also founded and leaded the [AI Group](https://unique-ailab.github.io/) of [Unique Studio](https://hustunique.com/).
+
+She positions herself as a fusion of both technology and humanities. Her goal is to promote the productization and commercialization of AI technology as an AI PM. 
+
+She currently has AI productization experience in the fields of Smart Retail, Intelligent Customer Service and Intelligent Mobility with the comprehensive application of various AI technologies, including CV, NLP, ASR, etc.
