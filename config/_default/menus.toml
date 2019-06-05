@@ -19,7 +19,7 @@
   weight = 60
 
 [[main]]
-  name = "Posts"
+  name = "Blog"
   url = "#featured posts"
   weight = 70
 
@@ -33,4 +33,4 @@
 [[main]]   
   name = "CV"
   url = "files/cv.pdf"
-  weight = 10
+  weight = 120
