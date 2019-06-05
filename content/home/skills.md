@@ -21,7 +21,7 @@ subtitle = ""
   description = "I design products solutions and strategies based on the principle of achieving a balance between maximum ROI and maximum user value."
 
 [[feature]]
-  icon = "circle"
+  icon = "layer-group"
   icon_pack = "fas"
   name = "Product Management"
   description = "I manage the life cycle of products, working with the r&d and design teams to launch and sustainable optimize products."
