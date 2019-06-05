@@ -15,21 +15,46 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = ""
+  icon = "anchor"
+  icon_pack = "fas"
+  name = "Product Design"
+  description = "I design products solutions and strategies based on the principle of achieving a balance between maximum ROI and maximum user value."
+
+[[feature]]
+  icon = "layer-group"
+  icon_pack = "fas"
+  name = "Product Management"
+  description = "I manage the life cycle of products, working with the r&d and design teams to launch and sustainable optimize products."
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = ""  
-  
+  name = "Data Analysis"
+  description = "I use data mining and analysis to support my work, Python, SQL, Tableau are mainly used. I have experience in C/C++, Java and Web development too."  
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "tools"
+  icon_pack = "fas"
+  name = "User Experience Design"
+  description = "I use information architecture design, prototypes design, Interaction Design to create products with better usability."
+
+[[feature]]
+  icon = "user"
+  icon_pack = "fas"
+  name = "User Research"
+  description = "I use professional social science research methods to research and discover the real needs and behaviors of users."
+
+
+[[feature]]
+  icon = "globe"
+  icon_pack = "fas"
+  name = "Languages"
+  description = "My mother tongue is Chinese. English: passive C1, active C2. German: passive B1, active B2."
+
+[[feature]]
+  icon = "amera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = ""
+  description = "I love to record the beautiful things I encounter in my life journey."
 
 +++
