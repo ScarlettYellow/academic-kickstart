@@ -5,5 +5,5 @@ layout: "links"
 menu: "main"
 weight: 140
 ---
-{{< friend name="Tony" url="https://scarletthuang.cn" logo="0001.jpg" word="A funny guy" >}}  
-{{< friend name="Mike" url="https://scarletthuang.cn" logo="0001.jpg" word="A poor guy" >}} 
+{{< friend name="Zekang Li: NLP Researcher" url="https://scarletthuang.cn" logo="" word="" >}}  
+{{< friend name="Vic Chan: CV Researcher" url="https://scarletthuang.cn" logo="" word="" >}} 
