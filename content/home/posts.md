@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "AI PM & Products"
+    tag = "AI Products"
     category = ""
     publication_type = ""
     exclude_featured = false
