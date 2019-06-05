@@ -11,8 +11,7 @@ summary:
 # Optional header image (relative to `static/img/` folder).
 header: 
   caption: "Way to know myself"
-  image: "0001.jpg"
-  focal_point: Center
+  image: ""
 
 url_code: ""
 url_pdf: ""
