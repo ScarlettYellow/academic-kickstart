@@ -24,45 +24,17 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-<!--   [content.filters]
-    tag = "AI Products"
+  [content.filters]
+    tag = "AI Products","Computer Science"
     category = ""
     publication_type = ""
     exclude_featured = false
-
+<!-- 
   [content.filters]
     tag = "Computer Science"
     category = ""
     publication_type = ""
-    exclude_featured = false
-
-  [content.filters]
-    tag = "Social Science"
-    category = ""
-    publication_type = ""
-    exclude_featured = false
-
-  [content.filters]
-    tag = "Life"
-    category = ""
-    publication_type = ""
-    exclude_featured = false
- -->
-
-   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
-  
-  [[content.filter_button]]
-     name = "All"
-     tag = "*"
-  
-   [[content.filter_button]]
-     name = "AI Products"
-     tag = "AI Products"
-  
-   [[content.filter_button]]
-     name = "Social Science"
-     tag = "Social Science"
+    exclude_featured = false -->
 
 [design]
   # Toggle between the various page layout types.
