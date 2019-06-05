@@ -33,7 +33,7 @@ subtitle = ""
   description = "I use data mining and analysis to support my work, Python, SQL, Tableau are mainly used. I have experience in C/C++, Java and Web development too."  
 
 [[feature]]
-  icon = "tools"
+  icon = "users-cog"
   icon_pack = "fas"
   name = "User Experience Design"
   description = "I use information architecture design, prototypes design, Interaction Design to create products with better usability."
@@ -52,7 +52,7 @@ subtitle = ""
   description = "My mother tongue is Chinese. English: passive C1, active C2. German: passive B1, active B2."
 
 [[feature]]
-  icon = "amera-retro"
+  icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
   description = "I love to record the beautiful things I encounter in my life journey."
