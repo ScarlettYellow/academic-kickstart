@@ -21,7 +21,7 @@ subtitle = ""
   description = "I design products solutions and strategies based on the principle of achieving a balance between maximum ROI and maximum user value."
 
 [[feature]]
-  icon = "layer-group"
+  icon = "circle"
   icon_pack = "fas"
   name = "Product Management"
   description = "I manage the life cycle of products, working with the r&d and design teams to launch and sustainable optimize products."
@@ -30,7 +30,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Data Analysis"
-  description = "I use data mining and analysis to support my work, Python, SQL, Tableau are mainly used. I have experience in C/C++, Java and Web development too."  
+  description = "I use data statistics and analysis to support my work, Python, SQL, Tableau are mainly used. I have experience in C/C++, Java and Web development too."  
 
 [[feature]]
   icon = "users-cog"
@@ -50,11 +50,5 @@ subtitle = ""
   icon_pack = "fas"
   name = "Languages"
   description = "My mother tongue is Chinese. English: passive C1, active C2. German: passive B1, active B2."
-
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "I love to record the beautiful things I encounter in my life journey."
 
 +++
