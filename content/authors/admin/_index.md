@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:1056838786@qq.com"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:scarletthuang.cn@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
