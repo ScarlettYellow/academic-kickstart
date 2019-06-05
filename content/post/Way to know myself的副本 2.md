@@ -1,23 +1,17 @@
 ---
 title: Way to know myself
 date: 2019-06-02
-featured: false
+featured: true
 categories:
-- Computer Science
+- Life
 tags:
-- Python
+- growth
 summary: 
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 1
 
 # Optional header image (relative to `static/img/` folder).
 header: 
   caption: "Way to know myself"
-  image: "0001.jpg"
+  image: ""
 
 url_code: ""
 url_pdf: ""

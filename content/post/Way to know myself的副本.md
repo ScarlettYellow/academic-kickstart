@@ -1,23 +1,17 @@
 ---
 title: Way to know myself
-date: 2019-06-04
-featured: false
+date: 2019-06-02
+featured: true
 categories:
-- Social Science
+- Life
 tags:
-- User Research
+- growth
 summary: 
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 1
 
 # Optional header image (relative to `static/img/` folder).
 header: 
   caption: "Way to know myself"
-  image: "0001.jpg"
+  image: ""
 
 url_code: ""
 url_pdf: ""
