@@ -19,6 +19,10 @@ header:
   caption: "Way to know myself"
   image: "0001.jpg"
 
+image:
+  caption: Way to know myself
+  focal_point: Center
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
