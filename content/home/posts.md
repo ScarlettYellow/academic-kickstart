@@ -26,24 +26,7 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = "AI Products"
-    category = ""
-    publication_type = ""
-    exclude_featured = false
-
-  [content.filters]
     tag = "Computer Science"
-    category = ""
-    publication_type = ""
-    exclude_featured = false
-
-  [content.filters]
-    tag = "Social Science"
-    category = ""
-    publication_type = ""
-    exclude_featured = false
-
-  [content.filters]
-    tag = "Life"
     category = ""
     publication_type = ""
     exclude_featured = false
