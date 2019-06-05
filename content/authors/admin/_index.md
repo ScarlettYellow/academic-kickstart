@@ -15,7 +15,7 @@ role: Undergraduate Student
 # Organizations/Affiliations
 organizations:
 - name: Huazhong University of Science and Technology
-  url: ""
+  url: "http://english.hust.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am an AI Product Manager committed to promoting the productization and commercialization of AI technology. In my spare time, I enjoy meditation, reading, travelling and photography.
@@ -30,7 +30,7 @@ education:
   - course: BA in Communication
     institution: Huazhong University of Science and Technology
     year: 2016~2020
-  - course: BSc in Computer Science and Technology
+  - course: BEng in Computer Science and Technology
     institution: Huazhong University of Science and Technology
     year: 2016~2020
 
@@ -53,12 +53,12 @@ social:
   link: https://github.com/ScarlettYellow
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "1056838786@qq.com"
+email: "scarletthuang.cn@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -67,6 +67,10 @@ user_groups:
 - Visitors
 ---
 
-Scarlett Huang is an undergraduate student majoring in both [Communication](https://drive.google.com/open?id=1vq__rdYHl9Ns7fv0wPL_QlAQYxF6ahcF) and [Computer Science ](https://drive.google.com/open?id=1tNNoqNa9HC33VkgTHEuDx-XLKVN0XuWJ) in [Huazhong University of Science and Technology](http://english.hust.edu.cn/). She founded and leaded the [AI Group](https://unique-ailab.github.io/) of [Unique Studio](https://hustunique.com/). She worked as an AI Product Manager (PM) intern, respectively, in the [Smart Retail Department](https://megvii.com/Smart_Retail) of [Face++ (Megvii)](https://megvii.com/), and the [AI Labs](https://www.didiglobal.com/science/ailabs) of [Didi Chuxing](https://www.didiglobal.com/). 
+Scarlett Huang is always on a journey of discovering her actual self and "true love". 
 
-She positions herself as a fusion of technology and humanities. She is committed to promoting the productization and commercialization of AI technology as an AI PM. She has AI productization experience in the fields of Smart Retail, Intelligent Customer Service and Intelligent Transportation with the comprehensive application of various AI technologies, including CV, NLP, ASR, etc.
+She used to be a liberal arts student, but fell in love with designing Technology Products in univeristy. This carried into her majors in both [Communication](https://drive.google.com/open?id=1zSoWb30w7oAiSfQvMJQd8bkCIeRSk5xB) and [Computer Science ](https://drive.google.com/open?id=1ICUjT-VQ_Fka3SFW8Jifxg4hM8gGqzTQ) in [Huazhong University of Science and Technology](http://english.hust.edu.cn/), and AI Product Manager (PM) internships in the [AI Labs](https://www.didiglobal.com/science/ailabs) of [Didi Chuxing](https://www.didiglobal.com/), and [Smart Retail Department](https://megvii.com/Intelligent_Retail/) of [Face++ (Megvii)](https://megvii.com/). She also founded and leaded the [AI Group](https://unique-ailab.github.io/) of [Unique Studio](https://hustunique.com/).
+
+She positions herself as a fusion of both technology and humanities. Her goal is to promote the productization and commercialization of AI technology as an AI PM. 
+
+She currently has AI productization experience in the fields of Smart Retail, Intelligent Customer Service and Intelligent Mobility with the comprehensive application of various AI technologies, including CV, NLP, ASR, etc.
