@@ -1,5 +1,5 @@
 ---
-title: "MyFriends"
+title: "My Friends"
 date: 2019-06-05
 layout: "links"
 menu: "main"

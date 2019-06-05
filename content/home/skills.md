@@ -42,8 +42,7 @@ subtitle = ""
   icon = "user"
   icon_pack = "fas"
   name = "User Research"
-  description = "I use professional social science research methods to research and discover the real needs and behaviors of users."
-
+  description = "I use professional methods of social science research to research and discover the real needs and behaviors of users."
 
 [[feature]]
   icon = "globe"
