@@ -8,20 +8,11 @@ tags:
 - growth
 summary: 
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 1
-
 # Optional header image (relative to `static/img/` folder).
 header: 
   caption: "Way to know myself"
   image: "0001.jpg"
-
-image:
-  caption: Way to know myself
-  focal_point: Center
+    focal_point: Center
 
 url_code: ""
 url_pdf: ""
