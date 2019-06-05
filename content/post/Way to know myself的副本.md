@@ -2,7 +2,7 @@
 title: Way to know myself
 summary: 
 tags:
-- Life
+- Computer Science
 date: "2019-06-02T00:00:00Z"
 
 # View.

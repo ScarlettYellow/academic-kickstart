@@ -2,7 +2,8 @@
 title: Way to know myself
 summary: 
 tags:
-- Life
+- AI Products
+- Featured
 date: "2019-06-02T00:00:00Z"
 
 # View.
