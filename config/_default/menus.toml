@@ -26,7 +26,7 @@
 [[main]]
   name = "Blog"
   url = "https://scarlettyellow.github.io/"
-  weight = 80
+  weight = 70
 
 [[main]]
   name = "Contact"
