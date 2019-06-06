@@ -18,7 +18,7 @@ subtitle = ""
   icon = "anchor"
   icon_pack = "fas"
   name = "Product Design"
-  description = "I design products solutions and strategies based on the principle of achieving a balance between maximum ROI and maximum user value."
+  description = "I design products and strategies based on the principle of achieving a balance between maximum ROI and maximum user value."
 
 [[feature]]
   icon = "layer-group"
@@ -30,7 +30,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Data Analysis"
-  description = "I use data statistics and analysis to support my work, Python, SQL, Tableau are mainly used. I have experience in C/C++, Java and Web development too."  
+  description = "I use data mining and analysis to support my work, with Python, SQL, Tableau mainly used. I have experience in C/C++, Java and Web development too."  
 
 [[feature]]
   icon = "users-cog"
