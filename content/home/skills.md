@@ -24,7 +24,7 @@ subtitle = ""
   icon = "layer-group"
   icon_pack = "fas"
   name = "Product Management"
-  description = "I manage the life cycle of products, working with the r&d and design teams to launch and sustainable optimize products."
+  description = "I manage the product life cycles, working with the r&d and design teams to launch and sustainable optimize products."
   
 [[feature]]
   icon = "chart-line"
