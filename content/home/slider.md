@@ -16,7 +16,7 @@ height = "150px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 
-[[item]]
+[header]
   title = "Scarlett Huang"
   content = ""
   align = "left"
