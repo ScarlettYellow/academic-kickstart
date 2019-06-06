@@ -19,8 +19,13 @@
   weight = 60
 
 [[main]]
-  name = "Blog"
+  name = "Posts"
   url = "#featured posts"
+  weight = 70
+
+[[main]]
+  name = "Blog"
+  url = "https://scarlettyellow.github.io/"
   weight = 70
 
 [[main]]
