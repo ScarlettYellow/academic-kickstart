@@ -70,4 +70,3 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 # additional
   watermark = "pm.png" # relative to `static/img/` folder)
-  footmark = ""
