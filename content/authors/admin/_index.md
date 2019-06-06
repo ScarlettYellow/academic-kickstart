@@ -1,3 +1,9 @@
++++
+# Background image.
+  image = "pm.png"  # Name of image in `static/img/`.
+  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
++++
+
 ---
 # Display name
 name: Scarlett Huang
@@ -66,12 +72,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-+++
-# Background image.
-  image = "pm.png"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-+++
 
 Scarlett Huang is always on a journey of discovering her actual self and "true love". 
 
