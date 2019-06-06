@@ -68,5 +68,6 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 [[permalinks]]
   post = "/:year/:month/:day/:slug"
 
-# FLIP additional
+# additional
   watermark = "pm.png" # relative to `static/img/` folder)
+  footmark = ""
