@@ -26,7 +26,10 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
-  
+
+# permalinks
+aliases = ["/blog/"]
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List
