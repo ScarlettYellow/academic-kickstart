@@ -67,6 +67,12 @@ user_groups:
 - Visitors
 ---
 
++++
+# Background image.
+  image = "pm.png"  # Name of image in `static/img/`.
+  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
++++
+
 Scarlett Huang is always on a journey of discovering her actual self and "true love". 
 
 She used to be a liberal arts student, but fell in love with Technology in univeristy, especially designing Technology Products. This carried into her majors in both [Communication](https://drive.google.com/open?id=1zSoWb30w7oAiSfQvMJQd8bkCIeRSk5xB) and [Computer Science ](https://drive.google.com/open?id=1ICUjT-VQ_Fka3SFW8Jifxg4hM8gGqzTQ) in [Huazhong University of Science and Technology](http://english.hust.edu.cn/), and AI Product Manager (PM) internships in the [AI Labs](https://www.didiglobal.com/science/ailabs) of [Didi Chuxing](https://www.didiglobal.com/), and [Smart Retail Department](https://megvii.com/Intelligent_Retail/) of [Face++ (Megvii)](https://megvii.com/). She also founded and leaded the [AI Group](https://unique-ailab.github.io/) of [Unique Studio](https://hustunique.com/).
