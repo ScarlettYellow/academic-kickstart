@@ -16,7 +16,7 @@ author = "admin"
  # Custom CSS. 
  css_style = "
     .home-section:nth-of-type(even) {
-    background-image: url('../img/pm1.png');
+        background-image: url('../img/pm1.png');
     }"
  
  # CSS class.
