@@ -11,4 +11,14 @@ title = "Biography"
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
+
+[advanced]
+ # Custom CSS. 
+ css_style = "
+    .home-section:nth-of-type(even) {
+    background-image: url('../img/pm1.png');
+    }"
+ 
+ # CSS class.
+ css_class = ""
 +++
