@@ -36,7 +36,7 @@ subtitle = ""
   icon = "users-cog"
   icon_pack = "fas"
   name = "User Experience Design"
-  description = "I use information architecture design, prototypes design, Interaction Design to create products with better usability."
+  description = "I use information architecture design, prototypes design, interaction design to create products with better usability."
 
 [[feature]]
   icon = "user"
