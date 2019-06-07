@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student
+role: Undergraduate Student, Product Manager
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://english.hust.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an AI Product Manager committed to promoting the productization and commercialization of AI technology. In my spare time, I enjoy meditation, reading, travelling and photography.
+bio: Thinker, maker, leader, believer. Product Manager & Enthusiast, especially AI products.
 
 interests:
 - Artificial Intelligence
