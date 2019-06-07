@@ -12,4 +12,9 @@ title = "Biography"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 
+[cta]
+  url = "https://sourcethemes.com/academic/docs/install/"
+  label = "Get Started"
+  icon_pack = "fas"
+  icon = "download"
 +++
