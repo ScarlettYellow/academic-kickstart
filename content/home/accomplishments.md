@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/open?id=1tcEENAo6xhbSeRt9xenunklkCCz-FyM9"
   date_start = "2019-01-28"
   date_end = ""
-  description = "Simulating the growth models of dragons in different living environments on earth."
+  description = "Simulating the growth models of dragons in different terrestrial living environments."
 
 [[item]]
   organization = "CCF (China Computer Federation)"
