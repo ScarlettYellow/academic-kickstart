@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Posts"
-  url = "#Featured Posts"
+  url = "#posts"
   weight = 70
 
 [[main]]
