@@ -48,6 +48,9 @@ social:
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/scarlett-huang-5937a7188
 - icon: github
   icon_pack: fab
   link: https://github.com/ScarlettYellow
