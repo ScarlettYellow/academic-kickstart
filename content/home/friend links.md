@@ -3,6 +3,7 @@ title: "My Friends"
 date: 2019-06-05
 layout: "links"
 menu: "main"
+active = false
 weight: 140
 ---
 [MR WHY (ML Dev.)](https://mr-why.com/) </br>
