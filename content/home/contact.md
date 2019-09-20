@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Contact"
-subtitle = "Drop in a mail if you'd like to collaborate, chat or hire me. Also, I'm applying for suitable master's programs in US, if you have one, contact me."
+subtitle = "Drop in a mail if you'd like to collaborate, chat or hire me."
 
 # Automatically link email and phone?
 autolink = true
