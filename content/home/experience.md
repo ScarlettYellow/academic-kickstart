@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "AI Product Manager Intern"
-  company = "Pattern Recognition Center, Wechat AI, Tencent"
+  company = "Pattern Recognition Center, WeChat AI, Tencent"
   company_url = "https://www.tencent.com/en-us/index.html"
   location = "Beijing, China"
   date_start = "2019-08-15"
