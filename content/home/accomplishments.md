@@ -19,9 +19,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Ministry of Education, PRC"
+  organization_url = "http://en.moe.gov.cn/"
+  title = "China National Scholarship (Top 0.2%)"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-09-24"
+  date_end = ""
+  description = "The highest level scholarship established by the Chinese central government to reward outstanding students."
+
+[[item]]
   organization = "COMAP"
   organization_url = "https://www.comap.com"
-  title = "Meritorious Winner (Top 8%), 2019 American Undergraduate Mathematical Contest in Modeling"
+  title = "Meritorious Winner (Top 0.17%~7%), 2019 American Undergraduate Mathematical Contest in Modeling"
   url = "https://www.comap.com/undergraduate/contests/"
   certificate_url = "https://drive.google.com/open?id=1tcEENAo6xhbSeRt9xenunklkCCz-FyM9"
   date_start = "2019-01-28"
@@ -37,7 +47,7 @@ date_format = "Jan 2006"
   date_start = "2017-09-15"
   date_end = "2017-11-25"
   description = "Analyzing the public opinion of 2017 China–India border standoff based on big data and AI."
-  
+
 [[item]]
   organization = "Unique Studio"
   organization_url = "https://hustunique.com"
