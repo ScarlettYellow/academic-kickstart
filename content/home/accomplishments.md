@@ -29,6 +29,26 @@ date_format = "Jan 2006"
   description = "The highest level scholarship established by the Chinese central government to reward outstanding students."
 
 [[item]]
+  organization = "HUST"
+  organization_url = "http://english.hust.edu.cn/"
+  title = "Candidate of Pacemaker to Merit Student(Top 0.14%, Electing), Huazhong University of Science and Technology"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-10-27"
+  date_end = ""
+  description = "The highest honor awarded to undergraduates by Huazhong University of Science and Technology. It requires students to be particularly prominent in politics, ideology, morality, academics, work ability, social activities, etc."
+
+[[item]]
+  organization = "HUST"
+  organization_url = "http://english.hust.edu.cn/"
+  title = "Merit Student (Top 3%), Huazhong University of Science and Technology"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-09-16"
+  date_end = ""
+  description = "An honor given to the outstanding students selected by the school."
+
+[[item]]
   organization = "COMAP"
   organization_url = "https://www.comap.com"
   title = "Meritorious Winner (Top 0.17%~7%), 2019 American Undergraduate Mathematical Contest in Modeling"
