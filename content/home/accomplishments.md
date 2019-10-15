@@ -26,17 +26,17 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-09-24"
   date_end = ""
-  description = "The highest level scholarship established by the Chinese central government to reward outstanding students."
+  description = "The highest level scholarship established by the Chinese central government to reward the most outstanding students."
 
 [[item]]
   organization = "HUST"
   organization_url = "http://english.hust.edu.cn/"
-  title = "Candidate of Pacemaker to Merit Student(Top 0.14%, Electing), Huazhong University of Science and Technology"
+  title = "Candidate of Pacemaker to Merit Student (Top 0.14%, Electing), Huazhong University of Science and Technology"
   url = ""
   certificate_url = ""
   date_start = "2019-10-27"
   date_end = ""
-  description = "The highest honor awarded to undergraduates by Huazhong University of Science and Technology. It requires students to be particularly prominent in politics, ideology, morality, academics, work ability, social activities, etc."
+  description = "The highest honor awarded to undergraduates by Huazhong University of Science and Technology. It requires students to be particularly outstanding in politics, ideology, morality, academics, work ability, social activities, etc."
 
 [[item]]
   organization = "HUST"
