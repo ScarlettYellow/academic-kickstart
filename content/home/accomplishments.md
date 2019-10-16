@@ -58,11 +58,8 @@ date_format = "Jan 2006"
   date_start = "2019-01-28"
   date_end = ""
   description = """
-
   Contest: The most influential mathematical modeling competition in the world. 
-  
   Project: Simulating the growth models of dragons in different terrestrial living environments.
-
   """
 
 [[item]]
