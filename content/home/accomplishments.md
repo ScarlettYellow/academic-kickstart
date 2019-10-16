@@ -74,8 +74,8 @@ date_format = "Jan 2006"
   date_end = "2017-11-25"
   description = """
 
-  - Contest: One of the most influential global events in the field of big data and artificial intelligence. 
-  - Project: Analyzing the public opinion of 2017 China–India border standoff based on big data and AI.
+  Contest: One of the most influential global events in the field of big data and artificial intelligence. 
+  Project: Analyzing the public opinion of 2017 China–India border standoff based on big data and AI.
   """
 
 [[item]]
