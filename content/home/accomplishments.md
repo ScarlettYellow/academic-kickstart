@@ -59,8 +59,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  Contest: The most influential mathematical modeling competition in the world. 
-
+  Contest: The most influential mathematical modeling competition in the world. <br>
   Project: Simulating the growth models of dragons in different terrestrial living environments.
   """
 
@@ -88,8 +87,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  - Contest: The earliest and one of the largest student hackathon in China. 
-  - Project: Digital certificate notarization platform based on blockchain (demo)
+  Contest: The earliest and one of the largest student hackathon in China. <br>
+  Project: Digital certificate notarization platform based on blockchain (demo)
   """
 
 +++
