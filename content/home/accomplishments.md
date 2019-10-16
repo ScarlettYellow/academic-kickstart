@@ -57,21 +57,17 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/open?id=1tcEENAo6xhbSeRt9xenunklkCCz-FyM9"
   date_start = "2019-01-28"
   date_end = ""
-  description = "
-  Contest: The most influential mathematical modeling competition in the world.
-  Project: Simulating the growth models of dragons in different terrestrial living environments."
+  description = "Contest: The most influential mathematical modeling competition in the world. Project: Simulating the growth models of dragons in different terrestrial living environments."
 
 [[item]]
-  organization = "CCF (China Computer Federation)"
+  organization = "China Computer Federation"
   organization_url = "https://www.ccf.org.cn/"
   title = "Second Prize (Top 1%), 2017 CCF Big Data & Computational Intelligence Contest"
   url = "https://www.datafountain.cn/projects/2017CCF/"
   certificate_url = "https://drive.google.com/open?id=1glR7PKtGtUGsjClJ01_IaceyGlEyGsOa"
   date_start = "2017-09-15"
   date_end = "2017-11-25"
-  description = "
-Contest: One of the most influential global events in the field of big data and artificial intelligence.
-Project: Analyzing the public opinion of 2017 China–India border standoff based on big data and AI."
+  description = "Contest: One of the most influential global events in the field of big data and artificial intelligence. Project: Analyzing the public opinion of 2017 China–India border standoff based on big data and AI."
 
 [[item]]
   organization = "Unique Studio"
@@ -81,8 +77,6 @@ Project: Analyzing the public opinion of 2017 China–India border standoff base
   certificate_url = ""
   date_start = "2017-06-04"
   date_end = ""
-  description = "
-  Contest: The earliest and one of the largest student hackathon in China.
-  Project: Digital certificate notarization platform based on blockchain (demo)"
+  description = "Contest: The earliest and one of the largest student hackathon in China. Project: Digital certificate notarization platform based on blockchain (demo)"
 
 +++
