@@ -57,9 +57,13 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/open?id=1tcEENAo6xhbSeRt9xenunklkCCz-FyM9"
   date_start = "2019-01-28"
   date_end = ""
-  description = ""
+  description = """
+
   Contest: The most influential mathematical modeling competition in the world. 
-  Project: Simulating the growth models of dragons in different terrestrial living environments.""
+  
+  Project: Simulating the growth models of dragons in different terrestrial living environments.
+
+  """
 
 [[item]]
   organization = "China Computer Federation"
