@@ -70,7 +70,10 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/open?id=1glR7PKtGtUGsjClJ01_IaceyGlEyGsOa"
   date_start = "2017-09-15"
   date_end = "2017-11-25"
-  description = "Contest: One of the most influential global events in the field of big data and artificial intelligence. Project: Analyzing the public opinion of 2017 China–India border standoff based on big data and AI."
+  description = """
+  Contest: One of the most influential global events in the field of big data and artificial intelligence. 
+  Project: Analyzing the public opinion of 2017 China–India border standoff based on big data and AI.
+  """
 
 [[item]]
   organization = "Unique Studio"
@@ -80,6 +83,9 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-06-04"
   date_end = ""
-  description = "Contest: The earliest and one of the largest student hackathon in China. Project: Digital certificate notarization platform based on blockchain (demo)"
+  description = """
+  Contest: The earliest and one of the largest student hackathon in China. 
+  Project: Digital certificate notarization platform based on blockchain (demo)
+  """
 
 +++
