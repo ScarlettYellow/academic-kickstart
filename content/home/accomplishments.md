@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Ministry of Education, PRC"
+  organization = "Ministry of Education of the People's Republic of China"
   organization_url = "http://en.moe.gov.cn/"
   title = "China National Scholarship (Top 0.2%)"
   url = ""
@@ -62,7 +62,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "CCF (China Computer Federation)"
   organization_url = "https://www.ccf.org.cn/"
-  title = "Second Prize (Top 1%), 2017 CCF Data & Computational Intelligence Contest"
+  title = "Second Prize (Top 1%), 2017 CCF Big Data & Computational Intelligence Contest"
   url = "https://www.datafountain.cn/projects/2017CCF/"
   certificate_url = "https://drive.google.com/open?id=1glR7PKtGtUGsjClJ01_IaceyGlEyGsOa"
   date_start = "2017-09-15"
