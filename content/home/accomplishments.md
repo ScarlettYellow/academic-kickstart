@@ -37,7 +37,10 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-10-27"
   date_end = ""
-  description = "The highest honor awarded to undergraduates by Huazhong University of Science and Technology. It requires students to be particularly outstanding in politics, ideology, morality, academics, work ability, social activities, etc."
+  description = "
+  
+  The highest honor awarded to undergraduates by Huazhong University of Science and Technology. <br>
+  It requires students to be particularly outstanding in politics, ideology, morality, academics, work ability, social activities, etc."
 
 [[item]]
   organization = "HUST"
