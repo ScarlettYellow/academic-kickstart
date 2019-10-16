@@ -58,8 +58,8 @@ date_format = "Jan 2006"
   date_start = "2019-01-28"
   date_end = ""
   description = """
-  Contest: The most influential mathematical modeling competition in the world. 
-  Project: Simulating the growth models of dragons in different terrestrial living environments.
+  - Contest: The most influential mathematical modeling competition in the world. 
+  - Project: Simulating the growth models of dragons in different terrestrial living environments.
   """
 
 [[item]]
@@ -71,8 +71,8 @@ date_format = "Jan 2006"
   date_start = "2017-09-15"
   date_end = "2017-11-25"
   description = """
-  Contest: One of the most influential global events in the field of big data and artificial intelligence. 
-  Project: Analyzing the public opinion of 2017 China–India border standoff based on big data and AI.
+  - Contest: One of the most influential global events in the field of big data and artificial intelligence. 
+  - Project: Analyzing the public opinion of 2017 China–India border standoff based on big data and AI.
   """
 
 [[item]]
@@ -84,8 +84,8 @@ date_format = "Jan 2006"
   date_start = "2017-06-04"
   date_end = ""
   description = """
-  Contest: The earliest and one of the largest student hackathon in China. 
-  Project: Digital certificate notarization platform based on blockchain (demo)
+  - Contest: The earliest and one of the largest student hackathon in China. 
+  - Project: Digital certificate notarization platform based on blockchain (demo)
   """
 
 +++
