@@ -74,7 +74,7 @@ Products in charge of include:
  """
 
 [[experience]]
-  title = "AI Group Founder & Leader"
+  title = "AI Lab Founder & Leader"
   company = "Unique Studio, Huazhong University of Science and Technology"
   company_url = "https://hustunique.com/"
   location = "Wuhan, China"
@@ -84,7 +84,7 @@ Products in charge of include:
 
 Responsibilities include:
 
-- Establishing the AI Group and recuiting new members (containing 20+ undergraduate students)
+- Establishing the AI Lab and recuiting new members (containing 20+ undergraduate students)
 - Formulating the group culture and operation mechanism, introducing external resources
 - Holding AI salons and classes facing all interested students, especially the underrepresented groups (having gotten at least 500+ undergraduate students interested in AI)
 
