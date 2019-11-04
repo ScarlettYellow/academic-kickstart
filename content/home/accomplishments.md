@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Qiming College of Huazhong University of Science and Technology"
   organization_url = "http://qiming.hust.edu.cn"
-  title = "Interdisciplinary Star"
+  title = "Qiming Star (Interdisciplinary Star)"
   url = ""
   certificate_url = ""
   date_start = "2019-11-04"
