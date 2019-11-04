@@ -20,6 +20,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Qiming College of Huazhong University of Science and Technology"
+  organization_url = "http://qiming.hust.edu.cn"
+  title = "Interdisciplinary Star"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-11-04"
+  date_end = ""
+  description = "The highest honor awarded to the most outstanding students by Qiming College, the most selective elite college of Huazhong University of Science and Technology"
+
+[[item]]
   organization = "Ministry of Education of the People's Republic of China"
   organization_url = "http://en.moe.gov.cn/"
   title = "National Scholarship (Top 0.2%)"
