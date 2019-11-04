@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   description = "The highest level scholarship established by the Chinese central government to reward the most outstanding students."
 
 [[item]]
-  organization = "HUST"
+  organization = "Huazhong University of Science and Technology"
   organization_url = "http://english.hust.edu.cn/"
   title = "Candidate of Pacemaker to Merit Student (Top 0.14%, Electing), Huazhong University of Science and Technology"
   url = ""
@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   """
 
 [[item]]
-  organization = "HUST"
+  organization = "Huazhong University of Science and Technology"
   organization_url = "http://english.hust.edu.cn/"
   title = "Merit Student (Top 3%), Huazhong University of Science and Technology"
   url = ""
