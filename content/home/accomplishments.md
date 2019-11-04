@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Huazhong University of Science and Technology"
   organization_url = "http://english.hust.edu.cn"
-  title = "Interdisciplinary Star (Top 0.03%), Qiming Star"
+  title = "Interdisciplinary Star (Top 0.04%), Qiming Star"
   url = ""
   certificate_url = ""
   date_start = "2019-11-04"
