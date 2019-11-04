@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   description = """
 
   Qiming Star: The highest honor awarded to the most outstanding students of Qiming College, **the most selective elite college** of Huazhong University of Science and Technology. <br>
-  Interdisciplinary Star: A class of Qiming Star, awarded to **the most outstanding interdisciplinary student** in the university, with only one place per year.
+  Interdisciplinary Star: A class of Qiming Star, awarded to **the most outstanding interdisciplinary student** in the university, with **only one place** per year.
   """
 
 [[item]]
