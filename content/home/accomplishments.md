@@ -46,10 +46,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Huazhong University of Science and Technology"
   organization_url = "http://english.hust.edu.cn/"
-  title = "Candidate of Pacemaker to Merit Student (Top 0.14%, Electing), Huazhong University of Science and Technology"
+  title = "Pacemaker to Merit Student Nomination Award (Top 0.08%), Huazhong University of Science and Technology"
   url = ""
   certificate_url = ""
-  date_start = "2019-10-15"
+  date_start = "2019-11-15"
   date_end = ""
   description = """
   

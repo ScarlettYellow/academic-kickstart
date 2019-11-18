@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-Product: WeChat Voice Assistant (Direct access to each entry in WeChat via Voice)
+Product: WeChat Voice Assistant (Link to WeChat ecology with dialogue)
 
 """
 
@@ -36,7 +36,7 @@ Product: WeChat Voice Assistant (Direct access to each entry in WeChat via Voice
   company_url = "https://www.didiglobal.com/"
   location = "Beijing, China"
   date_start = "2018-12-20"
-  date_end = "2019-04-30"
+  date_end = "2019-07-31"
   description = """
 
 Responsibilities include:
