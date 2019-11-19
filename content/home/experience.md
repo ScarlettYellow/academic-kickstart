@@ -79,7 +79,7 @@ Products in charge of include:
   company_url = "https://hustunique.com/"
   location = "Wuhan, China"
   date_start = "2017-06-01"
-  date_end = "2018-04-20"
+  date_end = "2018-06-30"
   description = """
 
 Responsibilities include:

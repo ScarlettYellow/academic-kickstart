@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BA in Communication
+  - course: BA in Communication Studies
     institution: Huazhong University of Science and Technology
     year: 2016~2020
   - course: BEng in Computer Science and Technology
