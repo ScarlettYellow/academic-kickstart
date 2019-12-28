@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Pattern Recognition Center, WeChat AI, Tencent"
   company_url = "https://www.tencent.com/en-us/index.html"
   location = "Beijing, China"
-  date_start = "2019-08-15"
-  date_end = ""
+  date_start = "2019-10-08"
+  date_end = "2019-11-30"
   description = """
 
 Product: WeChat Voice Assistant (Link to WeChat ecology with dialogue)
@@ -36,7 +36,7 @@ Product: WeChat Voice Assistant (Link to WeChat ecology with dialogue)
   company_url = "https://www.didiglobal.com/"
   location = "Beijing, China"
   date_start = "2018-12-20"
-  date_end = "2019-07-31"
+  date_end = "2019-04-30"
   description = """
 
 Responsibilities include:
