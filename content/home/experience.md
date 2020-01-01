@@ -86,7 +86,7 @@ Responsibilities include:
 
 - Establishing the AI Lab and recuiting new members (containing 20+ undergraduate students)
 - Formulating the group culture and operation mechanism, introducing external resources
-- Holding AI salons and classes facing all interested students, especially the underrepresented groups (having gotten at least 500+ undergraduate students interested in AI)
+- Holding AI salons and classes facing all interested students, especially the underrepresented groups (having gotten at least 600+ undergraduate students interested in AI)
 
  """
 
