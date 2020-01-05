@@ -26,7 +26,11 @@ date_format = "Jan 2006"
   date_end = "2019-11-30"
   description = """
 
-Product: WeChat Voice Assistant (Link to WeChat ecology with dialogue)
+**Project I: WeChat AI Dialogue Assistant (Chatbot)**
+Designed and launched a revamped product version, solving the existing high-risk architectural and experiential problems, adding new features including mood companion, and multi-round dialogues
+<br>
+**Project II: Tencent Smart Speaker**
+Assessed user feedbacks, designed a new version, improving user experience and refining some logical problems
 
 """
 
@@ -39,17 +43,14 @@ Product: WeChat Voice Assistant (Link to WeChat ecology with dialogue)
   date_end = "2019-04-30"
   description = """
 
-Responsibilities include:
-
-- Designing and Implementing product solutions & strategies 
-- Constructing Data System
-
-Products involved include:
-
-- Security and Compliance Intelligent Monitoring System (serving 1500 + staffs)
-
-- Hotline Customer Service Intelligent Assistance System (serving 700 + staffs)
-- Intelligent Customer Service Chatbot (serving 1 billion+ users)
+Project I: AI Censor System for Travel Security and Compliance
+Owned the product lifecycle from initial concept to delivery, having improved censor efficiency by 28%
+<br>
+Project II: AI Customer Service Assistance System
+Designed and built the system from zero, improving human work efficiency by 18%
+<br>
+Project III: AI Customer Service Chatbot
+Redesigned the bot with higher problem-solving abilities, reducing user loss by 10.3%, increasing user satisfaction by 5.3%
 
 """
 
@@ -62,14 +63,7 @@ Products involved include:
   date_end = "2018-08-30"
   description = """
 
-Responsibilities include:
-
-- Designing and Implementing product solutions & strategies 
-- Constructing Benchmark System
-
-Products in charge of include:
-
-- Consumer hot zone and moving line identification and visualization system (serving 1000 + stores)
+Managed concept-to-launch of a core module of smart retail AI+IOT solutions, enabling real-time statistics of customer in-shop behaviors, serving 1000+ retail stores
 
  """
 
@@ -84,9 +78,13 @@ Products in charge of include:
 
 Responsibilities include:
 
-- Establishing the AI Lab and recuiting new members (containing 20+ undergraduate students)
-- Formulating the group culture and operation mechanism, introducing external resources
-- Holding AI salons and classes facing all interested students, especially the underrepresented groups (having gotten at least 600+ undergraduate students interested in AI)
+- Founded AI Lab, grew it from 0 to 40 with a strict 3% selection rate; the first and best AI student group schoolwide
+- Formulated operation mechanism, matched all needed resources for its development, like mentors, projects, machines
+- Built the talent & innovation cultivation mechanism based on tutor mode, close cooperation and innovative practices  
+- Held AI salons and contests schoolwide, influencing 600+ undergraduates get involved in AI, especially lots of females
+- Directed Unique Hackathon, the earliest and one of the largest hackathons in China, attracted 200+ students worldwide
+- Collaborated closely with students from diverse backgrounds (CS, design, business, etc.) to create innovative solutions
+
 
  """
 
