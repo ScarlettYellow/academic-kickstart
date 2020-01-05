@@ -75,7 +75,7 @@ Managed concept-to-launch of a core module of smart retail AI+IOT solutions, ena
   date_start = "2017-06-01"
   date_end = "2018-06-30"
   description = """
-
+<br>
 - Founded AI Lab, grew it from 0 to 40 with a strict 3% selection rate; the first and best AI student group schoolwide
 - Built the talent & innovation cultivation mechanism based on tutor mode, close cooperation and innovative practices  
 - Held AI salons and contests schoolwide, influencing 600+ undergraduates get involved in AI, especially lots of females
