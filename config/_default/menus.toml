@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Portfolio"
-  url = "#portfolio"
+  url = "https://portfolio.scarletthuang.cn"
   weight = 60
 
 # [[main]]
@@ -42,5 +42,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]   
   name = "CV"
-  url = "https://www.scarletthuang.cn"
+  url = "static/files/cv.pdf"
   weight = 120
