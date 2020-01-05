@@ -77,11 +77,9 @@ Managed concept-to-launch of a core module of smart retail AI+IOT solutions, ena
   description = """
 
 - Founded AI Lab, grew it from 0 to 40 with a strict 3% selection rate; the first and best AI student group schoolwide
-- Formulated operation mechanism, matched all needed resources for its development, like mentors, projects, machines
 - Built the talent & innovation cultivation mechanism based on tutor mode, close cooperation and innovative practices  
 - Held AI salons and contests schoolwide, influencing 600+ undergraduates get involved in AI, especially lots of females
 - Directed Unique Hackathon, the earliest and one of the largest hackathons in China, attracted 200+ students worldwide
-- Collaborated closely with students from diverse backgrounds (CS, design, business, etc.) to create innovative solutions
 
 
  """
