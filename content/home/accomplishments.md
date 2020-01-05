@@ -43,6 +43,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = "**The highest level scholarship** established by the Chinese central government to reward **the most outstanding students**."
 
+
 [[item]]
   organization = "Huazhong University of Science and Technology"
   organization_url = "http://english.hust.edu.cn/"
@@ -54,7 +55,20 @@ date_format = "Jan 2006"
   description = """
   
   **The highest honor** awarded to undergraduates by Huazhong University of Science and Technology. <br>
-  It requires students to be particularly outstanding in politics, ideology, morality, academics, work ability, social activities, etc.
+  It requires students to be particularly exceptional in morality, academics, work ability, social activities, etc.
+  """
+
+[[item]]
+  organization = "Huazhong University of Science and Technology"
+  organization_url = "http://english.hust.edu.cn/"
+  title = "Outstanding Individual of Innovation and Entrepreneurship (Top 1%), Huazhong University of Science and Technology"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-01-03"
+  date_end = ""
+  description = """
+
+  An honor given to the outstanding students who gained significant achievements in innovation and entrepreneurship practices.
   """
 
 [[item]]
@@ -65,7 +79,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-09-16"
   date_end = ""
-  description = "An honor given to the outstanding students selected by the school."
+  description = "An honor given to the distinguished students selected by the school."
 
 [[item]]
   organization = "COMAP"
@@ -95,18 +109,5 @@ date_format = "Jan 2006"
   Project: Analyzing the public opinion of 2017 China–India border standoff based on big data and AI.
   """
 
-[[item]]
-  organization = "Unique Studio"
-  organization_url = "https://hustunique.com"
-  title = "Corporate Award, Unique Hackday"
-  url = "https://hack.hustunique.com/"
-  certificate_url = ""
-  date_start = "2017-06-05"
-  date_end = ""
-  description = """
-
-  Contest: The earliest and one of the largest student hackathon in China. <br>
-  Project: Digital certificate notarization platform based on blockchain (demo)
-  """
 
 +++
