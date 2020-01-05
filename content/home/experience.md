@@ -26,10 +26,10 @@ date_format = "Jan 2006"
   date_end = "2019-11-30"
   description = """
 
-**Project I: WeChat AI Dialogue Assistant (Chatbot)**
+**Project I: WeChat AI Dialogue Assistant (Chatbot)**<br>
 Designed and launched a revamped product version, solving the existing high-risk architectural and experiential problems, adding new features including mood companion, and multi-round dialogues
 <br>
-**Project II: Tencent Smart Speaker**
+**Project II: Tencent Smart Speaker**<br>
 Assessed user feedbacks, designed a new version, improving user experience and refining some logical problems
 
 """
@@ -43,13 +43,13 @@ Assessed user feedbacks, designed a new version, improving user experience and r
   date_end = "2019-04-30"
   description = """
 
-Project I: AI Censor System for Travel Security and Compliance
+**Project I: AI Censor System for Travel Security and Compliance**<br>
 Owned the product lifecycle from initial concept to delivery, having improved censor efficiency by 28%
 <br>
-Project II: AI Customer Service Assistance System
+**Project II: AI Customer Service Assistance System**<br>
 Designed and built the system from zero, improving human work efficiency by 18%
 <br>
-Project III: AI Customer Service Chatbot
+**Project III: AI Customer Service Chatbot**<br>
 Redesigned the bot with higher problem-solving abilities, reducing user loss by 10.3%, increasing user satisfaction by 5.3%
 
 """
