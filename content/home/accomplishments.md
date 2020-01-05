@@ -64,7 +64,7 @@ date_format = "Jan 2006"
   title = "Outstanding Individual of Innovation and Entrepreneurship (Top 1%), Huazhong University of Science and Technology"
   url = ""
   certificate_url = ""
-  date_start = "2019-01-03"
+  date_start = "2020-01-03"
   date_end = ""
   description = """
 
