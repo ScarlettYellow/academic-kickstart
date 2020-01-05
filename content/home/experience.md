@@ -76,8 +76,6 @@ Managed concept-to-launch of a core module of smart retail AI+IOT solutions, ena
   date_end = "2018-06-30"
   description = """
 
-Responsibilities include:
-
 - Founded AI Lab, grew it from 0 to 40 with a strict 3% selection rate; the first and best AI student group schoolwide
 - Formulated operation mechanism, matched all needed resources for its development, like mentors, projects, machines
 - Built the talent & innovation cultivation mechanism based on tutor mode, close cooperation and innovative practices  
