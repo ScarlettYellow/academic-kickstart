@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "scarletthuang.cn@gmail.com"
 # phone = ""
-address = "Qiming College, Huazhong University of Science and Technology, Wuhan, Hubei, China"
+address = "Huazhong University of Science and Technology, Wuhan, Hubei, China"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = "Email for appointment"

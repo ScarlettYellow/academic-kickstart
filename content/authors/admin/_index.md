@@ -56,12 +56,12 @@ social:
   link: https://github.com/ScarlettYellow
 - icon: blogger-b
   icon_pack: fab
-  link: https://blog.scarletthuang.cn
+  link: https://blog.scarletthuang.com
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: https://portfolio.scarletthuang.cn/files/resume.pdf
+  link: https://portfolio.scarletthuang.com/files/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "scarletthuang.cn@gmail.com"
