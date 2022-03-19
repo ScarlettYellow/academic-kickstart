@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student, Product Manager
+role: Master's Student, Product Manager
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://english.hust.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Thinker, maker, leader, believer. Product Manager & Enthusiast, especially AI products.
+bio: Thinker, maker, leader, believer. Product Manager & Enthusiast
 
 interests:
 - Artificial Intelligence
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: BA in Communication Studies
-    institution: Huazhong University of Science and Technology
-    year: 2016~2020
+  - course: MS in Information Science
+    institution: Cornell Tech
+    year: 2020~2022
   - course: BEng in Computer Science and Technology
     institution: Huazhong University of Science and Technology
     year: 2016~2020
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:scarletthuang.cn@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:sh2557@cornell.edu"  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -64,7 +64,7 @@ social:
   link: https://portfolio.scarletthuang.com/files/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "scarletthuang.cn@gmail.com"
+email: "sh2557@cornell.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -75,8 +75,6 @@ user_groups:
 
 Scarlett Huang is always on a journey of discovering her actual self and "true love". 
 
-She used to be a liberal arts student, but fell in love with Technology in univeristy, especially designing Technology Products. This carried into her majors in both [Communication](https://drive.google.com/open?id=1zSoWb30w7oAiSfQvMJQd8bkCIeRSk5xB) and [Computer Science ](https://drive.google.com/open?id=1ICUjT-VQ_Fka3SFW8Jifxg4hM8gGqzTQ) in [Huazhong University of Science and Technology](http://english.hust.edu.cn/), and AI Product Manager (PM) internships at Pattern Recognition Center, [WeChat AI](https://ai.weixin.qq.com/), [Tencent](https://www.tencent.com/en-us/index.html),  and [AI Labs](https://www.didiglobal.com/science/ailabs) of [Didi Chuxing](https://www.didiglobal.com/), and [Smart Retail Department](https://megvii.com/en/solutions/smart_retail) of [Face++ (Megvii)](https://megvii.com/en). She also founded and leaded the [AI Lab](https://unique-ailab.github.io/) of [Unique Studio](https://hustunique.com/).
+She is passionate about Product Innovation. She previously interned as a Product Manager at [ByteDance](https://www.bytedance.com/en/), [Didi Chuxing](https://www.didiglobal.com/), and Microsoft. She also founded and leaded the [AI Lab](https://unique-ailab.github.io/) of [Unique Studio](https://hustunique.com/).
 
-She positions herself as a fusion of both technology and humanities. Her goal is to promote the productization and commercialization of AI technology as an AI PM. 
-
-She has AI productization experiences in the fields of Smart Retail, Intelligent Customer Service and Intelligent Mobility with the comprehensive application of various AI technologies, including CV, NLP, ASR, etc.
+She positions herself at the intersection of both technology and humanities. Her goal is to positively impact society by product innovation.
