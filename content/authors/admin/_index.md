@@ -77,4 +77,4 @@ Scarlett Huang is always on a journey of discovering her actual self and "true l
 
 She is passionate about Product Innovation. She previously interned as a Product Manager at [ByteDance](https://www.bytedance.com/en/), [Didi Chuxing](https://www.didiglobal.com/), and Microsoft. She also founded and leaded the [AI Lab](https://unique-ailab.github.io/) of [Unique Studio](https://hustunique.com/).
 
-She positions herself at the intersection of both technology and humanities. Her goal is to positively impact society by product innovation.
+She positions herself at the intersection of technology and humanities. Her goal is to positively impact society by product innovation.
