@@ -14,8 +14,8 @@ role: Master's Student, Product Manager
 
 # Organizations/Affiliations
 organizations:
-- name: Huazhong University of Science and Technology
-  url: "http://english.hust.edu.cn/"
+- name: Cornell Tech
+  url: "https://www.tech.cornell.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Thinker, maker, leader, believer. Product Manager & Enthusiast
